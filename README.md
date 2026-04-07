@@ -665,5 +665,4 @@ Created with ❤️ by [Your Name]
 
 ---
 
-**For support, email: support@example.com or create an issue in the repository.**
 
